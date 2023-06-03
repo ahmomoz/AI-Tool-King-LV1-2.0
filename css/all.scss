@@ -1,0 +1,17 @@
+@import "reset";
+/*------------------------------------------*/
+.container{
+    max-width: 1326px;
+    margin: 0 auto;
+    padding: 0px 15px;
+}
+/*-----------------header-------------------*/
+@import "header";
+/*-----------------service------------------*/
+@import "service";
+/*-----------------recommend----------------*/
+@import "recommend";
+/*-----------------card---------------------*/
+@import "card";
+/*-----------------footer-------------------*/
+@import "footer";
